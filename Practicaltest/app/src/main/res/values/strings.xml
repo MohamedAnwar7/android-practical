@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Practicaltest</string>
+    <string name="txtname">name</string>
+    <string name="pass">password</string>
+    <string name="address">address</string>
+    <string name="save">save</string>
+    <string name="clear">clear</string>
+    <string name="next">Next</string>
+    <string name="x">x</string>
+    <string name="exit">Exit</string>
+    <string name="load">load</string>
+</resources>

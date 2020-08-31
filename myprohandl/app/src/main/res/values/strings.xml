@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Eventhandl</string>
+    <string name="textTitle">hello</string>
+    <string name="buttonTitle">Click ME!!</string>
+</resources>
